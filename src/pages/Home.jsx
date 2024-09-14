@@ -2,9 +2,16 @@ import React from "react";
 
 function Home(){
     return (
-        <>
-        Conteúdo Home
-        </>
+        <><table class="curriculo">
+        <tr>
+            <td>
+                sadfsadsadf
+            </td>
+        </tr>
+        
+    </table>
+    </>
+        
     )
 }
 
